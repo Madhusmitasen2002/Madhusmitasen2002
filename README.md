@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=805&height=44&lines=Working%20on%20backend%20systems%20and%20improving%20my%20skills." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=805&height=44&lines=Backend%20Developer%20building%20reliable%20APIs%20and%20database-driven%20systems." alt="Typing headlines" />
 </p>
 
 ### About Me
@@ -16,20 +16,15 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-JavaScript, SQL, Dart, Python
+**Languages:** JavaScript, SQL, Dart, Python
 
-**Backend**
-Node.js, Express.js, REST APIs, JWT
+**Backend:** Node.js, Express.js, REST APIs, JWT
 
-**Database**
-PostgreSQL, Supabase, Drizzle ORM
+**Database:** PostgreSQL, Supabase, Drizzle ORM
 
-**Frontend**
-React, Next.js, Tailwind CSS
+**Frontend:** React, Next.js, Tailwind CSS
 
-**Tools**
-Git, GitHub, Docker, Postman
+**Tools:** Git, GitHub, Docker, Postman
 
 ### 📊 GitHub Stats
 

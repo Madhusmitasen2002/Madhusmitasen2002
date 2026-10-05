@@ -44,6 +44,8 @@ Git, GitHub, Docker, Postman
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Madhusmitasen2002&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+### 🤝Connect
+
 [LinkedIn]:(https://www.linkedin.com/in/madhushmita-sen-943227191/)
 
 ---
